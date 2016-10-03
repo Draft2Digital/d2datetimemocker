@@ -2,6 +2,10 @@
 datetimemocker
 ==============
 
+.. image:: https://travis-ci.org/Draft2Digital/d2datetimemocker.png?branch=master
+    :target: https://travis-ci.org/Draft2Digital/d2datetimemocker
+
+
     .. code-block:: python
 
         with DateTimeMocker():

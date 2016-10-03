@@ -6,10 +6,10 @@ datetimemocker
     :target: https://travis-ci.org/Draft2Digital/d2datetimemocker
 
 
-    .. code-block:: python
+.. code-block:: python
 
-        with DateTimeMocker():
-            # datetime is mocked everywhere.
+    with DateTimeMocker():
+        # datetime is mocked everywhere.
 
 For examples, see the unittests at `/datetimemocker/test/test_datetimemocker.py`
 
